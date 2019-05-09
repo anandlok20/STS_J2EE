@@ -4,7 +4,6 @@
 package core;
 
 import java.sql.Date;
-
 /**
  * @author Anand Lok
  *
